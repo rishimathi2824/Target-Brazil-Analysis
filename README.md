@@ -5,11 +5,6 @@ from the Brazilian Olist dataset, covering revenue/profitability and delivery
 performance — built to support decisions in logistics, operations, and revenue
 optimization.
 
-> **Team project.** Completed as a group analytics case study.
-> **My contributions:** _[FILL IN — e.g. "built the Revenue Analysis dashboard,
-> wrote the SQL joins across the order/payment/product tables, and developed the
-> finance-team insights and recommendations."]_
-
 ---
 
 ## Revenue Analysis Dashboard
